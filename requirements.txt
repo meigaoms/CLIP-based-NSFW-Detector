@@ -1,0 +1,4 @@
+clip-anytorch
+tensorflow
+git+https://github.com/keras-team/keras-tuner.git
+autokeras
